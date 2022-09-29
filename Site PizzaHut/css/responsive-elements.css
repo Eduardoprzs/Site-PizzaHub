@@ -1,0 +1,25 @@
+@media (max-width: 1150px) {
+  .container {
+    width: 950px;
+  }
+}
+
+@media (max-width: 1024px) {
+  .container {
+    width: 800px;
+  }
+
+  .sobre-pizza-hut figcaption img {
+    width: 550px;
+  }
+}
+
+@media (max-width: 915px) {
+  .container {
+    width: 550px;
+  }
+
+  .sobre-pizza-hut figcaption img {
+    width: 550px;
+  }
+}

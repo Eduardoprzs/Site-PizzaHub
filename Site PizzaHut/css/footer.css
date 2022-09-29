@@ -1,0 +1,9 @@
+footer ul li a img {
+  width: 35px;
+  display: flex;
+  flex-direction: row;
+  margin-right: 10px;
+  margin: 12px;
+
+
+}

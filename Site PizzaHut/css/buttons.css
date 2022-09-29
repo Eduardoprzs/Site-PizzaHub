@@ -1,0 +1,11 @@
+.btn {
+  padding: 5px 20px;
+  text-shadow: none;
+
+}
+
+.btn.btn-amarelo {
+  background: rgb(255, 203, 6);
+  border-radius: 30px;
+  color: rgb(0, 0, 0);
+}
